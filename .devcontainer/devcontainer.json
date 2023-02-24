@@ -1,6 +1,10 @@
 {
-    "extensions" : [
-		"GitHub.copilot",
-		"ms-dotnettools.csharp"
-	]
-  }
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"ms-dotnettools.csharp"
+			]
+		}
+	}
+}
